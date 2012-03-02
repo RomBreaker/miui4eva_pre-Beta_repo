@@ -1,0 +1,3 @@
+post-build=verizon/targa_vzw/:4.0.3_r1/MR1/eng.dhacker29.20120224.024755:/
+post-timestamp=1330073364
+pre-device=cdma_targa
